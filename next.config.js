@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    // output: 'export',
+    output: 'export',
     images: {
         domains: ['avatars.githubusercontent.com', 'avatar.vercel.sh']
     }
